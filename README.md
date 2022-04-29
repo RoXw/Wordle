@@ -7,7 +7,7 @@ Steps to run the code:
 3. Javac Wordle.java
 4. java Worlde <word_size> <methodology>
   * word_size is an integer
-  * methodology canbe `likelihood` or `entropy`
+  * methodology either be `likelihood` or `entropy`
 
 
 Below is the analysis on how expected number of guesses changes with word size and methodology.
